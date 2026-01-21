@@ -11,7 +11,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscosanaba913@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fsanaba2803@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](TU_PORTFOLIO)
 
 </div>
