@@ -357,9 +357,3 @@ const francisco = {
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-<p><i>"El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House</i></p>
-
-⭐️ **Si te gusta mi perfil, considera darle una estrella a mis repositorios** ⭐️
-
-</div>
