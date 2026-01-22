@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Francisco%20Sánchez%20Abad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Desarrollador+Full+Stack+Junior;Especialista+en+Bases+de+Datos;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
+<h2>💻 Desarrollador Full Stack Junior | 🗄️ Especialista en Bases de Datos</h2>
+<h3>🌱 Siempre aprendiendo nuevas tecnologías</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Ubicación-Osuna,_Sevilla-3B82F6?style=for-the-badge&logo=google-maps&logoColor=white"/>
@@ -10,9 +11,9 @@
   <img src="https://img.shields.io/badge/Estado-Buscando_Empleo-FF6B6B?style=for-the-badge&logo=lighthouse&logoColor=white"/>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fsanaba2803@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](TU_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscosanaba913@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Sígueme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
 
 </div>
 
@@ -194,13 +195,13 @@ const francisco = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fsanaba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fsanaba&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fsanaba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fsanaba&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff" />
+<br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Fsanaba&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=TU_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff" />
 
 </div>
 
@@ -252,8 +253,11 @@ const francisco = {
 <a href="mailto:franciscosanaba913@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/tu-perfil">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/TU_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="tel:+34609450090">
   <img src="https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
@@ -348,7 +352,7 @@ const francisco = {
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Fsanaba&label=Visitas%20al%20Perfil&color=3B82F6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=TU_USERNAME&label=Visitas%20al%20Perfil&color=3B82F6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -357,3 +361,9 @@ const francisco = {
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<p><i>"El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House</i></p>
+
+⭐️ **Si te gusta mi perfil, considera darle una estrella a mis repositorios** ⭐️
+
+</div>
